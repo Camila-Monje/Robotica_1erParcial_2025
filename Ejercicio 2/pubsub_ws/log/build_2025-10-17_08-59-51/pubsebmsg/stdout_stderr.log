@@ -1,0 +1,26 @@
+running egg_info
+writing ../../build/pubsebmsg/pubsebmsg.egg-info/PKG-INFO
+writing dependency_links to ../../build/pubsebmsg/pubsebmsg.egg-info/dependency_links.txt
+writing entry points to ../../build/pubsebmsg/pubsebmsg.egg-info/entry_points.txt
+writing requirements to ../../build/pubsebmsg/pubsebmsg.egg-info/requires.txt
+writing top-level names to ../../build/pubsebmsg/pubsebmsg.egg-info/top_level.txt
+reading manifest file '../../build/pubsebmsg/pubsebmsg.egg-info/SOURCES.txt'
+writing manifest file '../../build/pubsebmsg/pubsebmsg.egg-info/SOURCES.txt'
+running build
+running build_py
+copying pubsebmsg/node_resultado.py -> /home/laura/Documents/pubsub_ws/build/pubsebmsg/build/lib/pubsebmsg
+running install
+running install_lib
+copying /home/laura/Documents/pubsub_ws/build/pubsebmsg/build/lib/pubsebmsg/node_resultado.py -> /home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/python3.10/site-packages/pubsebmsg
+byte-compiling /home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/python3.10/site-packages/pubsebmsg/node_resultado.py to node_resultado.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/python3.10/site-packages/pubsebmsg-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/pubsebmsg/pubsebmsg.egg-info to /home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/python3.10/site-packages/pubsebmsg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing node_a script to /home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/pubsebmsg
+Installing node_b script to /home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/pubsebmsg
+Installing node_c script to /home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/pubsebmsg
+Installing node_resultado script to /home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/pubsebmsg
+Installing node_sumador script to /home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/pubsebmsg
+writing list of installed files to '/home/laura/Documents/pubsub_ws/build/pubsebmsg/install.log'

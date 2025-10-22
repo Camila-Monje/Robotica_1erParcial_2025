@@ -1,0 +1,53 @@
+[0.392s] Invoking command in '/home/laura/Documents/pubsub_ws/src/pubsebmsg': PYTHONPATH=/home/laura/Documents/pubsub_ws/build/pubsebmsg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pubsebmsg build --build-base /home/laura/Documents/pubsub_ws/build/pubsebmsg/build install --record /home/laura/Documents/pubsub_ws/build/pubsebmsg/install.log --single-version-externally-managed install_data
+[0.564s] running egg_info
+[0.565s] creating ../../build/pubsebmsg/pubsebmsg.egg-info
+[0.565s] writing ../../build/pubsebmsg/pubsebmsg.egg-info/PKG-INFO
+[0.565s] writing dependency_links to ../../build/pubsebmsg/pubsebmsg.egg-info/dependency_links.txt
+[0.565s] writing entry points to ../../build/pubsebmsg/pubsebmsg.egg-info/entry_points.txt
+[0.565s] writing requirements to ../../build/pubsebmsg/pubsebmsg.egg-info/requires.txt
+[0.565s] writing top-level names to ../../build/pubsebmsg/pubsebmsg.egg-info/top_level.txt
+[0.565s] writing manifest file '../../build/pubsebmsg/pubsebmsg.egg-info/SOURCES.txt'
+[0.566s] reading manifest file '../../build/pubsebmsg/pubsebmsg.egg-info/SOURCES.txt'
+[0.567s] writing manifest file '../../build/pubsebmsg/pubsebmsg.egg-info/SOURCES.txt'
+[0.567s] running build
+[0.567s] running build_py
+[0.567s] creating /home/laura/Documents/pubsub_ws/build/pubsebmsg/build
+[0.567s] creating /home/laura/Documents/pubsub_ws/build/pubsebmsg/build/lib
+[0.567s] creating /home/laura/Documents/pubsub_ws/build/pubsebmsg/build/lib/pubsebmsg
+[0.567s] copying pubsebmsg/node_a.py -> /home/laura/Documents/pubsub_ws/build/pubsebmsg/build/lib/pubsebmsg
+[0.567s] copying pubsebmsg/node_c.py -> /home/laura/Documents/pubsub_ws/build/pubsebmsg/build/lib/pubsebmsg
+[0.567s] copying pubsebmsg/node_resultado.py -> /home/laura/Documents/pubsub_ws/build/pubsebmsg/build/lib/pubsebmsg
+[0.567s] copying pubsebmsg/node_sumador.py -> /home/laura/Documents/pubsub_ws/build/pubsebmsg/build/lib/pubsebmsg
+[0.567s] copying pubsebmsg/node_b.py -> /home/laura/Documents/pubsub_ws/build/pubsebmsg/build/lib/pubsebmsg
+[0.567s] copying pubsebmsg/__init__.py -> /home/laura/Documents/pubsub_ws/build/pubsebmsg/build/lib/pubsebmsg
+[0.567s] running install
+[0.568s] running install_lib
+[0.568s] creating /home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/python3.10/site-packages/pubsebmsg
+[0.568s] copying /home/laura/Documents/pubsub_ws/build/pubsebmsg/build/lib/pubsebmsg/node_a.py -> /home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/python3.10/site-packages/pubsebmsg
+[0.568s] copying /home/laura/Documents/pubsub_ws/build/pubsebmsg/build/lib/pubsebmsg/node_c.py -> /home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/python3.10/site-packages/pubsebmsg
+[0.568s] copying /home/laura/Documents/pubsub_ws/build/pubsebmsg/build/lib/pubsebmsg/node_resultado.py -> /home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/python3.10/site-packages/pubsebmsg
+[0.568s] copying /home/laura/Documents/pubsub_ws/build/pubsebmsg/build/lib/pubsebmsg/node_sumador.py -> /home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/python3.10/site-packages/pubsebmsg
+[0.568s] copying /home/laura/Documents/pubsub_ws/build/pubsebmsg/build/lib/pubsebmsg/node_b.py -> /home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/python3.10/site-packages/pubsebmsg
+[0.568s] copying /home/laura/Documents/pubsub_ws/build/pubsebmsg/build/lib/pubsebmsg/__init__.py -> /home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/python3.10/site-packages/pubsebmsg
+[0.569s] byte-compiling /home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/python3.10/site-packages/pubsebmsg/node_a.py to node_a.cpython-310.pyc
+[0.569s] byte-compiling /home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/python3.10/site-packages/pubsebmsg/node_c.py to node_c.cpython-310.pyc
+[0.569s] byte-compiling /home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/python3.10/site-packages/pubsebmsg/node_resultado.py to node_resultado.cpython-310.pyc
+[0.569s] byte-compiling /home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/python3.10/site-packages/pubsebmsg/node_sumador.py to node_sumador.cpython-310.pyc
+[0.570s] byte-compiling /home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/python3.10/site-packages/pubsebmsg/node_b.py to node_b.cpython-310.pyc
+[0.570s] byte-compiling /home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/python3.10/site-packages/pubsebmsg/__init__.py to __init__.cpython-310.pyc
+[0.570s] running install_data
+[0.570s] creating /home/laura/Documents/pubsub_ws/install/pubsebmsg/share/ament_index
+[0.570s] creating /home/laura/Documents/pubsub_ws/install/pubsebmsg/share/ament_index/resource_index
+[0.570s] creating /home/laura/Documents/pubsub_ws/install/pubsebmsg/share/ament_index/resource_index/packages
+[0.570s] copying resource/pubsebmsg -> /home/laura/Documents/pubsub_ws/install/pubsebmsg/share/ament_index/resource_index/packages
+[0.570s] copying package.xml -> /home/laura/Documents/pubsub_ws/install/pubsebmsg/share/pubsebmsg
+[0.571s] running install_egg_info
+[0.572s] Copying ../../build/pubsebmsg/pubsebmsg.egg-info to /home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/python3.10/site-packages/pubsebmsg-0.0.0-py3.10.egg-info
+[0.573s] running install_scripts
+[0.594s] Installing node_a script to /home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/pubsebmsg
+[0.594s] Installing node_b script to /home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/pubsebmsg
+[0.594s] Installing node_c script to /home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/pubsebmsg
+[0.594s] Installing node_resultado script to /home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/pubsebmsg
+[0.594s] Installing node_sumador script to /home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/pubsebmsg
+[0.594s] writing list of installed files to '/home/laura/Documents/pubsub_ws/build/pubsebmsg/install.log'
+[0.616s] Invoked command in '/home/laura/Documents/pubsub_ws/src/pubsebmsg' returned '0': PYTHONPATH=/home/laura/Documents/pubsub_ws/build/pubsebmsg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/laura/Documents/pubsub_ws/install/pubsebmsg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pubsebmsg build --build-base /home/laura/Documents/pubsub_ws/build/pubsebmsg/build install --record /home/laura/Documents/pubsub_ws/build/pubsebmsg/install.log --single-version-externally-managed install_data

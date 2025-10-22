@@ -1,0 +1,7 @@
+[console_scripts]
+node_a = pubsebmsg.node_a:main
+node_b = pubsebmsg.node_b:main
+node_c = pubsebmsg.node_c:main
+node_resultado = pubsebmsg.node_resultado:main
+node_sumador = pubsebmsg.node_sumador:main
+

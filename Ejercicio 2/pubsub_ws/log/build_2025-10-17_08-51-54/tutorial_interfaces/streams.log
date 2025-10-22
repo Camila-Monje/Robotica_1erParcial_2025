@@ -1,0 +1,155 @@
+[0.164s] Invoking command in '/home/laura/Documents/pubsub_ws/build/tutorial_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/laura/Documents/pubsub_ws/install/pubsebmsg:/home/laura/Documents/pubsub_ws/install/pubseb:/home/laura/Documents/prueba/robot2_ws/install/visual_pubsub:/opt/ros/humble /usr/bin/cmake --build /home/laura/Documents/pubsub_ws/build/tutorial_interfaces -- -j8 -l8
+[0.190s] [35m[1mConsolidate compiler generated dependencies of target tutorial_interfaces__rosidl_generator_c[0m
+[0.197s] [  3%] Built target tutorial_interfaces__cpp
+[0.198s] [ 12%] Built target tutorial_interfaces__rosidl_generator_c
+[0.205s] [ 12%] Built target ament_cmake_python_copy_tutorial_interfaces
+[0.207s] [35m[1mConsolidate compiler generated dependencies of target tutorial_interfaces__rosidl_typesupport_fastrtps_c[0m
+[0.207s] [35m[1mConsolidate compiler generated dependencies of target tutorial_interfaces__rosidl_typesupport_c[0m
+[0.207s] [35m[1mConsolidate compiler generated dependencies of target tutorial_interfaces__rosidl_typesupport_introspection_c[0m
+[0.207s] [35m[1mConsolidate compiler generated dependencies of target tutorial_interfaces__rosidl_typesupport_introspection_cpp[0m
+[0.218s] [ 22%] Built target tutorial_interfaces__rosidl_typesupport_c
+[0.219s] [35m[1mConsolidate compiler generated dependencies of target tutorial_interfaces__rosidl_typesupport_cpp[0m
+[0.219s] [35m[1mConsolidate compiler generated dependencies of target tutorial_interfaces__rosidl_typesupport_fastrtps_cpp[0m
+[0.220s] [ 32%] Built target tutorial_interfaces__rosidl_typesupport_fastrtps_c
+[0.225s] [ 41%] Built target tutorial_interfaces__rosidl_typesupport_introspection_cpp
+[0.227s] [ 51%] Built target tutorial_interfaces__rosidl_typesupport_introspection_c
+[0.233s] [ 61%] Built target tutorial_interfaces__rosidl_typesupport_cpp
+[0.235s] [ 70%] Built target tutorial_interfaces__rosidl_typesupport_fastrtps_cpp
+[0.250s] [ 70%] Built target tutorial_interfaces
+[0.265s] [ 74%] Built target tutorial_interfaces__py
+[0.272s] [35m[1mConsolidate compiler generated dependencies of target tutorial_interfaces__rosidl_generator_py[0m
+[0.285s] [ 80%] Built target tutorial_interfaces__rosidl_generator_py
+[0.295s] [35m[1mConsolidate compiler generated dependencies of target tutorial_interfaces__rosidl_typesupport_fastrtps_c__pyext[0m
+[0.295s] [35m[1mConsolidate compiler generated dependencies of target tutorial_interfaces__rosidl_typesupport_c__pyext[0m
+[0.295s] [35m[1mConsolidate compiler generated dependencies of target tutorial_interfaces__rosidl_typesupport_introspection_c__pyext[0m
+[0.311s] [ 87%] Built target tutorial_interfaces__rosidl_typesupport_c__pyext
+[0.311s] [ 93%] Built target tutorial_interfaces__rosidl_typesupport_introspection_c__pyext
+[0.311s] [100%] Built target tutorial_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[0.406s] running egg_info
+[0.406s] writing tutorial_interfaces.egg-info/PKG-INFO
+[0.406s] writing dependency_links to tutorial_interfaces.egg-info/dependency_links.txt
+[0.406s] writing top-level names to tutorial_interfaces.egg-info/top_level.txt
+[0.406s] reading manifest file 'tutorial_interfaces.egg-info/SOURCES.txt'
+[0.406s] writing manifest file 'tutorial_interfaces.egg-info/SOURCES.txt'
+[0.429s] [100%] Built target ament_cmake_python_build_tutorial_interfaces_egg
+[0.441s] Invoked command in '/home/laura/Documents/pubsub_ws/build/tutorial_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/laura/Documents/pubsub_ws/install/pubsebmsg:/home/laura/Documents/pubsub_ws/install/pubseb:/home/laura/Documents/prueba/robot2_ws/install/visual_pubsub:/opt/ros/humble /usr/bin/cmake --build /home/laura/Documents/pubsub_ws/build/tutorial_interfaces -- -j8 -l8
+[0.455s] Invoking command in '/home/laura/Documents/pubsub_ws/build/tutorial_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/laura/Documents/pubsub_ws/install/pubsebmsg:/home/laura/Documents/pubsub_ws/install/pubseb:/home/laura/Documents/prueba/robot2_ws/install/visual_pubsub:/opt/ros/humble /usr/bin/cmake --install /home/laura/Documents/pubsub_ws/build/tutorial_interfaces
+[0.463s] -- Install configuration: ""
+[0.463s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/ament_index/resource_index/rosidl_interfaces/tutorial_interfaces
+[0.463s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces
+[0.463s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg
+[0.463s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/filtered_sensor.h
+[0.463s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail
+[0.463s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/filtered_sensor__struct.h
+[0.463s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/filtered_sensor__type_support.h
+[0.463s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/filtered_sensor__functions.h
+[0.463s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/filtered_sensor__functions.c
+[0.463s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/rosidl_generator_c__visibility_control.h
+[0.463s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/environment/library_path.sh
+[0.463s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/environment/library_path.dsv
+[0.463s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_generator_c.so
+[0.463s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces
+[0.464s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg
+[0.464s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.464s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail
+[0.464s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/filtered_sensor__rosidl_typesupport_fastrtps_c.h
+[0.464s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_typesupport_fastrtps_c.so
+[0.464s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces
+[0.464s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg
+[0.464s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/filtered_sensor.hpp
+[0.464s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp
+[0.464s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail
+[0.464s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/filtered_sensor__type_support.hpp
+[0.464s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/filtered_sensor__struct.hpp
+[0.464s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/filtered_sensor__traits.hpp
+[0.464s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/filtered_sensor__builder.hpp
+[0.464s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces
+[0.465s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg
+[0.465s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail
+[0.465s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/filtered_sensor__rosidl_typesupport_fastrtps_cpp.hpp
+[0.465s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/dds_fastrtps
+[0.465s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.465s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[0.465s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces
+[0.465s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg
+[0.465s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail
+[0.465s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/filtered_sensor__rosidl_typesupport_introspection_c.h
+[0.465s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/filtered_sensor__type_support.c
+[0.466s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.466s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_typesupport_introspection_c.so
+[0.466s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_typesupport_c.so
+[0.466s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces
+[0.466s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg
+[0.466s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail
+[0.466s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/filtered_sensor__type_support.cpp
+[0.466s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/filtered_sensor__rosidl_typesupport_introspection_cpp.hpp
+[0.466s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_typesupport_introspection_cpp.so
+[0.466s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_typesupport_cpp.so
+[0.466s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/environment/pythonpath.sh
+[0.466s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/environment/pythonpath.dsv
+[0.466s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces-0.0.0-py3.10.egg-info
+[0.467s] -- Installing: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.467s] -- Installing: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.467s] -- Installing: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces-0.0.0-py3.10.egg-info/top_level.txt
+[0.467s] -- Installing: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces-0.0.0-py3.10.egg-info/PKG-INFO
+[0.467s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces
+[0.467s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/libtutorial_interfaces__rosidl_generator_py.so
+[0.467s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/_tutorial_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[0.467s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/_tutorial_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[0.467s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/tutorial_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.467s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/_tutorial_interfaces_s.ep.rosidl_typesupport_c.c
+[0.467s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/__init__.py
+[0.467s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/tutorial_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.467s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/tutorial_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.467s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/msg
+[0.468s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/msg/_filtered_sensor_s.c
+[0.468s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/msg/__init__.py
+[0.468s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/msg/_filtered_sensor.py
+[0.496s] Listing '/home/laura/Documents/pubsub_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces'...
+[0.496s] Listing '/home/laura/Documents/pubsub_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/msg'...
+[0.500s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/tutorial_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.500s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/tutorial_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.500s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/tutorial_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.500s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_generator_py.so
+[0.501s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/msg/FilteredSensor.idl
+[0.501s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/msg/FilteredSensor.msg
+[0.501s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/ament_index/resource_index/package_run_dependencies/tutorial_interfaces
+[0.502s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/ament_index/resource_index/parent_prefix_path/tutorial_interfaces
+[0.502s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/environment/ament_prefix_path.sh
+[0.502s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/environment/ament_prefix_path.dsv
+[0.502s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/environment/path.sh
+[0.502s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/environment/path.dsv
+[0.502s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/local_setup.bash
+[0.502s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/local_setup.sh
+[0.502s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/local_setup.zsh
+[0.502s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/local_setup.dsv
+[0.502s] -- Installing: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/package.dsv
+[0.503s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/ament_index/resource_index/packages/tutorial_interfaces
+[0.503s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_generator_cExport.cmake
+[0.503s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_generator_cExport-noconfig.cmake
+[0.503s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[0.503s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[0.503s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_generator_cppExport.cmake
+[0.503s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[0.503s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[0.503s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[0.503s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.504s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_cExport.cmake
+[0.504s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[0.504s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[0.504s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.504s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_cppExport.cmake
+[0.504s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[0.504s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_generator_pyExport.cmake
+[0.504s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[0.504s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/rosidl_cmake-extras.cmake
+[0.504s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.504s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.504s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[0.504s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[0.505s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.505s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.505s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfacesConfig.cmake
+[0.506s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfacesConfig-version.cmake
+[0.506s] -- Up-to-date: /home/laura/Documents/pubsub_ws/install/tutorial_interfaces/share/tutorial_interfaces/package.xml
+[0.507s] Invoked command in '/home/laura/Documents/pubsub_ws/build/tutorial_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/laura/Documents/pubsub_ws/install/pubsebmsg:/home/laura/Documents/pubsub_ws/install/pubseb:/home/laura/Documents/prueba/robot2_ws/install/visual_pubsub:/opt/ros/humble /usr/bin/cmake --install /home/laura/Documents/pubsub_ws/build/tutorial_interfaces

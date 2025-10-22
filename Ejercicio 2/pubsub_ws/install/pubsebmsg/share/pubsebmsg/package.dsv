@@ -1,0 +1,6 @@
+source;share/pubsebmsg/hook/pythonpath.ps1
+source;share/pubsebmsg/hook/pythonpath.dsv
+source;share/pubsebmsg/hook/pythonpath.sh
+source;share/pubsebmsg/hook/ament_prefix_path.ps1
+source;share/pubsebmsg/hook/ament_prefix_path.dsv
+source;share/pubsebmsg/hook/ament_prefix_path.sh
